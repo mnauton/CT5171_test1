@@ -3,3 +3,5 @@ DevOps Lab
 
 Changed in IntelliJ
 Changed in GitHub
+
+Added this line again from GitHub website
